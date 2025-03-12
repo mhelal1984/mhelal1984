@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate RTL-ASIC design engineer from Cairo, Egypt</h3>
 
-- 🔭 I’m currently working on [RISC-V single cycle processor RTL Design](https://github.com/mhelal1984/RISC-V)
+- 🔭 I’m currently working on [Pipelined 8-point FFT with serial interface](https://github.com/mhelal1984/fft_8p_v0)
 
 - 🌱 I’m currently learning **VLSI physical design and all things Verilog!**
 
